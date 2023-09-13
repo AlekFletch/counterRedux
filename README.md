@@ -12,9 +12,5 @@
 ### `Простейшие действия`
 
 ![touched](gifs/counter.gif)
-
-
-
-
 [Коннов А.О.]: https://github.com/AlekFletch
 
